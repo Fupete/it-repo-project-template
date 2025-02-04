@@ -1,5 +1,5 @@
-# it-project-template
-Template per repository di progetto con issue tracking
+# project-template
+Template base per repository di progetto con issue tracking
 
 ## Quando crei una repository da questo template 
 - Inserisci il link al tab "Issues" della repository creata, nei due file `.yaml` presenti nel folder `.github/ISSUE_TEMPLATE`, laddove menziona il link "Lista delle discussioni".
